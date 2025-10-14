@@ -8,7 +8,7 @@ and evaluate patterns in customer behavior, sales trends, delivery performance, 
 ---
 
 ### 🧩 Dataset
-Dataset Source: [Target Brazil Dataset (Google Drive)](https://drive.google.com/drive/folders/1T6EG66YbKD443nsIR1bWjd238gLJcNnb)
+
 
 Tables Used:
 - `customers.csv`
@@ -65,6 +65,5 @@ Tables Used:
 ### 🏁 Author
 **Shivesh Raj Sahu**  
 📍 Boston, MA | Data Analyst | Applied Data Analytics @ Boston University  
-📧 [LinkedIn](https://linkedin.com/in/shiveshraj) | [GitHub](https://github.com/shivesh5273)
 
 ---
